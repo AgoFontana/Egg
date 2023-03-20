@@ -25,6 +25,7 @@ public class ejercicio1 {
         System.out.println("ingrese dos numeros enteros");
         int num1=leer.nextInt();
         int num2=leer.nextInt();
+        int num3;
         String exit= "N";
         int suma= (num1+num2);
         int resta= (num1-num2);
